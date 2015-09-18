@@ -1,2 +1,3 @@
 # Hello-world
-My first reposiyory
+My first repository
+On the Edit file tab , type some information about yourself.
